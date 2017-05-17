@@ -1,0 +1,33 @@
+{
+  "name": "tomatos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "var.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node var.js"
+  },
+    "engines": {
+        "node": "6.10.2"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guru2402/SunSpark-Website.git"
+  },
+  "author": "guru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guru2402/SunSpark-Website/issues"
+  },
+   "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "homepage": "https://github.com/Guru2402/SunSpark-Website#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "nodemailer": "^4.0.1"
+  }
+}
