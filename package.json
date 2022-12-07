@@ -27,7 +27,7 @@
   "homepage": "https://github.com/Guru2402/SunSpark-Website#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "nodemailer": "^4.0.1"
   }
 }
